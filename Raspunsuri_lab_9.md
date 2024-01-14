@@ -4,7 +4,7 @@ Raspunsuri laborator 9
 
 1.Utilizați pentru texturare imagini cu transparență și fără. Ce observați?
 
-Zonele transparente ale texturii permit vizualizarea obiectelor si a fundalului din spate. Utzlizarea texturilor transparente adaugă efecte artistice, cum ar fi umbre, iluzii de transparență.
+Zonele transparente ale texturii permit vizualizarea obiectelor si a fundalului din spate. Utilizarea texturilor transparente adaugă efecte artistice, cum ar fi umbre, iluzii de transparență.
 
 2.Ce formate de imagine pot fi aplicate în procesul de texturare în OpenGL?
 
